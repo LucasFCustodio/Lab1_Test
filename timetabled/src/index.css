@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 5px;
+}
+
+.time {
+  height: 40px;
+}
+
+.red {
+  background-color: #FF2323;
+}
+
+.blue {
+  background-color: #2323FF;
+}
+
+.green {
+  background-color: #23FF23;
+}
+
+.brown {
+  background-color: #964b00;
+}
+
+.Event {
+  width: 120px;
+  padding: 0px 20px;
+}
+
+.Event h5 {
+  font-size: 1rem;
+}
